@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	. "github.com/franela/goblin"
-	"github.com/monsooncommerce/mockwriter"
+	"github.com/stoneedgetech/mockwriter"
 	. "github.com/onsi/gomega"
 )
 
